@@ -74,10 +74,10 @@ Aucune donnée n’est envoyée en ligne.
 Vous pouvez sauvegarder ou transférer ce fichier pour garder votre historique.
 
 💡 Conseils
-	•	Ajustez vos budgets chaque mois selon vos priorités.
-	•	Les catégories peuvent être renommées ou désactivées à tout moment.
-	•	L’application fonctionne sur ordinateur, tablette ou mobile.
-	•	Vous pouvez changer le dossier de stockage via la variable DB_PATH.
+- Ajustez vos budgets chaque mois selon vos priorités.
+- Les catégories peuvent être renommées ou désactivées à tout moment.
+- L’application fonctionne sur ordinateur, tablette ou mobile.
+- Vous pouvez changer le dossier de stockage via la variable DB_PATH.
 
 ⸻
 
