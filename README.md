@@ -83,8 +83,8 @@ Vous pouvez sauvegarder ou transférer ce fichier pour garder votre historique.
 
 ✨ Points forts
 
-✅ Simple et intuitif
-✅ Totalement personnalisable
-✅ Données conservées en local
-✅ Tableau de bord clair et graphique intégré
-✅ Aucun compte ou configuration complexe requis
+- Simple et intuitif ✅
+- Totalement personnalisable ✅
+- Données conservées en local ✅
+- Tableau de bord clair et graphique intégré ✅
+- Aucun compte ou configuration complexe requis ✅
