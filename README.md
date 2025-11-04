@@ -1,4 +1,4 @@
-# 💰 Application de Gestion de Budget Mensuel
+# 💰 Application de gestion de Budget Mensuel
 
 Cette application Streamlit permet de gérer simplement ses revenus et ses dépenses chaque mois.
 Elle est conçue pour être intuitive, légère et accessible à tous.
