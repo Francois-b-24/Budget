@@ -52,7 +52,7 @@ cd budget-app
 
 ## 2️⃣ Installer les dépendances :
 ```bash
-pip install -r requirements.txt
+poetry install 
 ```
 
 ## 3️⃣ Lancer l’application :
