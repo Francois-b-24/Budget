@@ -4,19 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8bc5e245-d9d3-4359-aab2-cc8e4bf9d93d" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/Budget.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docker-compose.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dockerfile" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/nginx_/conf.d/nginx-app.conf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/nginx_/data/budget_app.db" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pyproject.toml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/requirements.txt" afterDir="false" />
+    <list default="true" id="8bc5e245-d9d3-4359-aab2-cc8e4bf9d93d" name="Changes" comment="Mise en place d'une application pour suivi mensuel de budget. Scripts + dockerfile &amp; docker-compose.">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pyproject.toml" beforeDir="false" afterPath="$PROJECT_DIR$/pyproject.toml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -33,6 +23,18 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "Francois-b-24"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/Francois-b-24/Budget.git",
+    "accountId": "da93ca5d-a918-484b-bfbc-8831ec96dd2e"
+  }
+}]]></component>
   <component name="ProjectColorInfo"><![CDATA[{
   "associatedIndex": 7
 }]]></component>
@@ -71,6 +73,19 @@
       <option name="presentableId" value="Default" />
       <updated>1762273178496</updated>
     </task>
+    <task id="LOCAL-00001" summary="Mise en place d'une application pour suivi mensuel de budget. Scripts + dockerfile &amp; docker-compose.">
+      <option name="closed" value="true" />
+      <created>1762275556658</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1762275556658</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Mise en place d'une application pour suivi mensuel de budget. Scripts + dockerfile &amp; docker-compose." />
+    <option name="LAST_COMMIT_MESSAGE" value="Mise en place d'une application pour suivi mensuel de budget. Scripts + dockerfile &amp; docker-compose." />
   </component>
 </project>
