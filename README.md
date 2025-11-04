@@ -79,7 +79,6 @@ Vous pouvez sauvegarder ou transférer ce fichier pour garder votre historique.
 - L’application fonctionne sur ordinateur, tablette ou mobile.
 - Vous pouvez changer le dossier de stockage via la variable DB_PATH.
 
-⸻
 
 ✨ Points forts
 
