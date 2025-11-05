@@ -1,4 +1,4 @@
-# 💰 Application de Gestion de Budget Mensuel
+# 💰 Application de gestion de Budget Mensuel
 
 Cette application Streamlit permet de gérer simplement ses revenus et ses dépenses chaque mois.
 Elle est conçue pour être intuitive, légère et accessible à tous.
@@ -52,7 +52,7 @@ cd budget-app
 
 ## 2️⃣ Installer les dépendances :
 ```bash
-pip install -r requirements.txt
+poetry install 
 ```
 
 ## 3️⃣ Lancer l’application :
@@ -74,17 +74,16 @@ Aucune donnée n’est envoyée en ligne.
 Vous pouvez sauvegarder ou transférer ce fichier pour garder votre historique.
 
 💡 Conseils
-	•	Ajustez vos budgets chaque mois selon vos priorités.
-	•	Les catégories peuvent être renommées ou désactivées à tout moment.
-	•	L’application fonctionne sur ordinateur, tablette ou mobile.
-	•	Vous pouvez changer le dossier de stockage via la variable DB_PATH.
+- Ajustez vos budgets chaque mois selon vos priorités.
+- Les catégories peuvent être renommées ou désactivées à tout moment.
+- L’application fonctionne sur ordinateur, tablette ou mobile.
+- Vous pouvez changer le dossier de stockage via la variable DB_PATH.
 
-⸻
 
 ✨ Points forts
 
-✅ Simple et intuitif
-✅ Totalement personnalisable
-✅ Données conservées en local
-✅ Tableau de bord clair et graphique intégré
-✅ Aucun compte ou configuration complexe requis
+- Simple et intuitif ✅
+- Totalement personnalisable ✅
+- Données conservées en local ✅
+- Tableau de bord clair et graphique intégré ✅
+- Aucun compte ou configuration complexe requis ✅
