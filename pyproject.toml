@@ -7,5 +7,7 @@ dependencies = [
     "streamlit",
     "pandas",
     "plotly",
-    "streamlit-extras"
+    "streamlit-extras",
+    "streamlit-authenticator>=0.4.2",
+    "notebook>=7.4.7",
 ]
