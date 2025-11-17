@@ -4,17 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8bc5e245-d9d3-4359-aab2-cc8e4bf9d93d" name="Changes" comment="Ajout dépendance dans le toml">
-      <change afterPath="$PROJECT_DIR$/.streamlit/config.yaml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app.py" beforeDir="false" afterPath="$PROJECT_DIR$/app.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docker-compose.yml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/nginx_/conf.d/nginx-app.conf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/nginx_/data/budget_app.db" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pyproject.toml" beforeDir="false" afterPath="$PROJECT_DIR$/pyproject.toml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/requirements.txt" beforeDir="false" afterPath="$PROJECT_DIR$/requirements.txt" afterDir="false" />
-    </list>
+    <list default="true" id="8bc5e245-d9d3-4359-aab2-cc8e4bf9d93d" name="Changes" comment="Reorganisation" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -104,13 +94,22 @@
       <option name="project" value="LOCAL" />
       <updated>1762276590470</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Reorganisation">
+      <option name="closed" value="true" />
+      <created>1763416831913</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1763416831913</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Mise en place d'une application pour suivi mensuel de budget. Scripts + dockerfile &amp; docker-compose." />
     <MESSAGE value="Ajout dépendance dans le toml" />
-    <option name="LAST_COMMIT_MESSAGE" value="Ajout dépendance dans le toml" />
+    <MESSAGE value="Reorganisation" />
+    <option name="LAST_COMMIT_MESSAGE" value="Reorganisation" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
